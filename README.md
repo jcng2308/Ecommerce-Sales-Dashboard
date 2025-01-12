@@ -1,7 +1,8 @@
 # Ecommerce-Sales-Dashboard
 
-Tableau functions with filters and proper tooltip. Exploring organisation of containers. 
-![Ecommerce Dashboard](https://github.com/user-attachments/assets/51839a19-9b8c-4f94-922a-998fd5bed5f8)
+Tableau functions with filters and proper tooltips. Exploring the organisation of containers. 
+![image](https://github.com/user-attachments/assets/18f6cce9-70cb-408a-a9c2-803ce8dc6923)
+
 
 Sales Dashboard with Sales, Profit and Quantity comparison. Utilised calculated fields and Parameters to filter by Year.
 ![image](https://github.com/user-attachments/assets/84905b33-f881-47e8-bcf3-a59e19c797ef)
